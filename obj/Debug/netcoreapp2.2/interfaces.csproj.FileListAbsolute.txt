@@ -1,0 +1,11 @@
+C:\C# Projects\interfaces\obj\Debug\netcoreapp2.2\interfaces.csprojAssemblyReference.cache
+C:\C# Projects\interfaces\obj\Debug\netcoreapp2.2\interfaces.csproj.CoreCompileInputs.cache
+C:\C# Projects\interfaces\obj\Debug\netcoreapp2.2\interfaces.AssemblyInfoInputs.cache
+C:\C# Projects\interfaces\obj\Debug\netcoreapp2.2\interfaces.AssemblyInfo.cs
+C:\C# Projects\interfaces\bin\Debug\netcoreapp2.2\interfaces.deps.json
+C:\C# Projects\interfaces\bin\Debug\netcoreapp2.2\interfaces.runtimeconfig.json
+C:\C# Projects\interfaces\bin\Debug\netcoreapp2.2\interfaces.runtimeconfig.dev.json
+C:\C# Projects\interfaces\bin\Debug\netcoreapp2.2\interfaces.dll
+C:\C# Projects\interfaces\bin\Debug\netcoreapp2.2\interfaces.pdb
+C:\C# Projects\interfaces\obj\Debug\netcoreapp2.2\interfaces.dll
+C:\C# Projects\interfaces\obj\Debug\netcoreapp2.2\interfaces.pdb
